@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Membros estáticos - Parte 1", "Membros estáticos - Parte 1.csproj", "{C21430C3-8278-4AC9-AAF9-000A3B9E1084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C21430C3-8278-4AC9-AAF9-000A3B9E1084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21430C3-8278-4AC9-AAF9-000A3B9E1084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21430C3-8278-4AC9-AAF9-000A3B9E1084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21430C3-8278-4AC9-AAF9-000A3B9E1084}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E73E60B-134A-4108-8178-EA51C44AAC07}
+	EndGlobalSection
+EndGlobal
